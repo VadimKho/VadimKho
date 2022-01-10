@@ -1,5 +1,5 @@
 ### Hi there 👋 My name's Vadim Khomich
-
+- ⚡ Fun fact: i love detailing auto, it seems to me that your car should be clean!
 <!--
 **VadimKho/VadimKho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
